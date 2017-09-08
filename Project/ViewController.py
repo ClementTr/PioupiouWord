@@ -1163,7 +1163,7 @@ def main():
 	model = Model() #Call MODEL
 	dictionary = ViewController(model)
 	#dictionary.deleteData()
-    #dictionary.createDatabase()
+        #dictionary.createDatabase()
 	sys.exit(app.exec_())
 
 
