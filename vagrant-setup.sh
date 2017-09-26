@@ -15,3 +15,5 @@ apt-get -y install python3-pip
 apt-get -y install -y python-dev
 sudo apt-get -y install python-qt4 pyqt4-dev-tools
 
+cd ~/
+echo "setxkbmap -layout fr  -variant mac" >> .bashrc
